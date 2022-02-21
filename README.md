@@ -73,4 +73,4 @@ Behaviour tests
 ./vendor/bin/behat -c behat.yml
 ```
 
-More information on how to run tests can be found in the Makefile or docker-compose file.
+More information on how to run tests can be found in the Makefile or docker-compose file..
